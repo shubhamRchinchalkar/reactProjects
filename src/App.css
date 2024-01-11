@@ -53,8 +53,9 @@ body{
 section.pricing {
   width: 100%;
   height: 100%;
-  background: #007bff;
-  background: linear-gradient(to right, #0062e6,#33aeff);
+   background: #007bff; 
+  background: linear-gradient(to right, #0062e6,#33aeff); 
+  width: 1400px;
   
 }
 

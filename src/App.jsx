@@ -17,6 +17,7 @@ const pricingDetails = [
       { feature: "Monthly Status Reports", isAvailable: false },
     ],
   },
+  
   {
     pricing: 10,
     priceType: "PAID",
